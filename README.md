@@ -13,9 +13,7 @@
 <p align="center">
   Hi, I'm Apurv Gore, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
   <br />
-  <br />
-  🎓 Currently a high school student.
-  <br />
+  
   💻 I love to learn new technologies and frameworks.
   <br />
   🧑‍💼 I’m currently a freelancer working as a React.js/Next.js developer.
