@@ -2,9 +2,9 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=heyapurv">
 
 <!-- introduction -->
-<h1 align="center">
+<h3 align="center">
   Hi, I'm Apurv Gore, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
-</h1>
+</h3>
 
 <br />
 
