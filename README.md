@@ -3,16 +3,10 @@
 
 <!-- introduction -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Apurv!;&center=true&font=Righteous&size=35">
-  </a>
+  Hi, I'm Apurv Gore, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
 </h1>
 
 <br />
-<!-- about me -->
-<p align="center">
-  Hi, I'm Apurv Gore, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
-</p>
 
 
 
