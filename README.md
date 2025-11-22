@@ -3,7 +3,7 @@
 
 <!-- introduction -->
 <h3 align="center">
-  Hi, I'm Apurv Gore, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Apurv Gore, from India 🇮🇳.
 </h3>
 
 <br />
